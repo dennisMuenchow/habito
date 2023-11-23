@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4839CDC-4018-4A73-9743-BF99A2015C3E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE55AE6E-4E16-48CD-85F0-50D0C55E39CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Habit Tracker/Controller/ItemController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B624CE00-FBCF-46C7-B712-4EB8FAAE4E2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Habit Tracker/Controller/ItemController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ItemController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B624CE00-FBCF-46C7-B712-4EB8FAAE4E2C - 70273adf2bb36b3c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Habit_Tracker.ItemController.context.getter : __C.NSManagedObjectContext"
+                  moduleName = "Habit Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennismuenchow/Documents/Beruflich/02_Freiberufler/App-Portfolio/ToDo%20App/Habit%20Tracker/Habit%20Tracker/Controller/ItemController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B624CE00-FBCF-46C7-B712-4EB8FAAE4E2C - c8cc455c75b5e467"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Habit_Tracker.ItemController.init(style: __C.UITableViewStyle) -&gt; Habit_Tracker.ItemController"
+                  moduleName = "Habit Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennismuenchow/Documents/Beruflich/02_Freiberufler/App-Portfolio/ToDo%20App/Habit%20Tracker/Habit%20Tracker/Controller/ItemController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "B624CE00-FBCF-46C7-B712-4EB8FAAE4E2C - 5f0cdabea503dc94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Habit_Tracker.ItemController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Habit_Tracker.ItemController"
+                  moduleName = "Habit Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennismuenchow/Documents/Beruflich/02_Freiberufler/App-Portfolio/ToDo%20App/Habit%20Tracker/Habit%20Tracker/Controller/ItemController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "B624CE00-FBCF-46C7-B712-4EB8FAAE4E2C - c011769aa19e3e1f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Habit_Tracker.ItemController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Habit_Tracker.ItemController&gt;"
+                  moduleName = "Habit Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dennismuenchow/Documents/Beruflich/02_Freiberufler/App-Portfolio/ToDo%20App/Habit%20Tracker/Habit%20Tracker/Controller/ItemController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
