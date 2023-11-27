@@ -7,6 +7,7 @@
 
 import UIKit
 import CoreData
+import UserNotifications
 
 
 class CategoryViewController: UIViewController {
@@ -36,7 +37,7 @@ class CategoryViewController: UIViewController {
         beziehungenAnzahl.text = "26"
         skillsAnzahl.text = "15"
         karriereAnzahl.text = "12"
-       
+            
         
         NotificationCenter.default.addObserver(self, selector: #selector(updateCategoryController), name: Notification.Name("updateCategoryController"), object: nil)
         loadItems()
@@ -87,7 +88,7 @@ class CategoryViewController: UIViewController {
         }
     }
 
-    // Notification-Funktion
+    // Update-Funktion
     @objc func updateCategoryController() {
         loadItems()
         updateCategoryCounts()
@@ -189,3 +190,5 @@ extension CategoryViewController: UITableViewDelegate, UITableViewDataSource {
         return swipe
     }
 }
+
+
